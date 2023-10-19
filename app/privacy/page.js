@@ -289,6 +289,22 @@ const page = () => {
                   Website.
                 </p>
               </li>
+              <li>
+                <p className="py-2">
+                  <strong>Privacy Policy for Our Services</strong>
+                </p>
+                <p className="py-2">Type: Regarding our mobile app</p>
+                <p className="py-2">Administered by: Us</p>
+                <p className="py-2">
+                  Purpose: We are committed to protecting your privacy and the
+                  security of your data. Our privacy policy outlines the types
+                  of information we collect and how we use it to provide you
+                  with the best possible experience. We do not share your
+                  sensitive information with third parties without your explicit
+                  consent. Your data is important to us, and we take privacy
+                  seriously.
+                </p>
+              </li>
             </ul>
             <p className="py-2">
               For more information about the cookies we use and your choices
